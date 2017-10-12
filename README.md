@@ -2,4 +2,4 @@
 Software Engineering
 Dit project gaat over de eCalendar van Software Engineering
 blablabla
- ik voeg er iets aan toe
+Dit is een update van Lucas
